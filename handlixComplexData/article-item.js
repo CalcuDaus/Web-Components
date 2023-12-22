@@ -14,4 +14,5 @@ class ArticleItem extends HTMLElement{
         `;
     }
 }
+let tes = "asd"
 customElements.define('article-item',ArticleItem);
